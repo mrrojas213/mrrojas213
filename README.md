@@ -22,4 +22,4 @@
 |--------|-------------|------|
 | **Student Queue Manager** | Simulates queue processing with timestamps and advisor logic | C |
 | **Real Estate Data Extraction** | Automated real estate data scraping with Selenium and BeautifulSoup, exporting results to Excel via Pandas | Python, BeautifulSoup, Selenium, Pandas |
-| **Football Match Outcome Predictor** | Developed an EPL match outcome predictor using logistic regression and decision trees, achieving 68% accuracy on scraped FBref data | Python, BeautifulSoup,  |
+| **Football Match Outcome Predictor** | Developed an EPL match outcome predictor using logistic regression and decision trees, achieving 68% accuracy on scraped FBref data | Python, BeautifulSoup  |
