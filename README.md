@@ -11,6 +11,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:** C, Java, Python, SQL, HTML/CSS
+
 **Tools & Frameworks:** Selenium, Beautiful Soup, Pandas, Excel, Git, Github
 
 **Learning:** MySQL, Data Structures & Algorithms
