@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jose!
 
-🎓 I'm a Software Engineering student at the University of Texas at Arlington (Class of 2026)  
+🎓 I'm a Software Engineering student at the University of Texas at Arlington (Class of 2027)  
 💻 Aspiring Software Engineer passionate about building efficient, user-focused solutions  
 📊 Interested in backend development, data structures, and Data engineering.  
 🚀 Currently learning: Java, and advanced data structures  
