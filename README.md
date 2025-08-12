@@ -10,11 +10,11 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** C, Python, Java, SQL, HTML/CSS
+**Languages:** C, Python, Java, HTML/CSS
 
 **Tools & Frameworks:** Selenium, Beautiful Soup, Pandas, Excel, Git, Github
 
-**Learning:** MySQL, Data Structures & Algorithms
+**Learning:** Data Structures & Algorithms
 
 ---
 
