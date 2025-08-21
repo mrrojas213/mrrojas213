@@ -2,7 +2,7 @@
 
 🎓 I'm a Software Engineering student at the University of Texas at Arlington (Class of 2027)  
 💻 Aspiring Software Engineer passionate about building efficient, user-focused solutions  
-📊 Interested in front and backend development, data structures.  
+📊 Full stack engineer interested in front and backend development, data structures
 🚀 Currently learning: Java, and advanced data structures  
 🌱 Always improving through hands-on projects, challenges, and continuous learning
 
