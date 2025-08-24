@@ -6,9 +6,9 @@
 
 📊 Exploring full-stack development and data structures
 
-🚀 Currently learning Java & advanced data structures
-
 🌱 Always improving through hands-on projects and problem-solving
+
+🚀 Currently learning Java & advanced data structures
 
 ---
 
