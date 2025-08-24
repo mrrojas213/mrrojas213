@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Jose!
 
-🎓 I'm a Software Engineering student at the University of Texas at Arlington (Class of 2027)  
-💻 Aspiring Software Engineer passionate about building efficient, user-focused solutions  
-📊 Full stack engineer interested in front and backend development, data structures
-🚀 Currently learning: Java, and advanced data structures  
-🌱 Always improving through hands-on projects, challenges, and continuous learning
+🎓 Software Engineering Student @ University of Texas at Arlington (Class of 2027)  
+💻 Passionate about building efficient, user-focused applications 
+📊 Exploring full-stack development and data structures
+🚀 Currently learning Java & advanced data structures
+🌱 Always improving through hands-on projects and problem-solving
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** C, Python, Java, HTML/CSS
+**Languages:** C, Java, Python, HTML/Tailwind CSS, JavaScript
 
 **Tools & Frameworks:** Selenium, Beautiful Soup, Pandas, Excel, Git, Github
 
@@ -22,6 +22,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| **Straight Shot Rentals** | A responsive trailer rental website built with HTML and Tailwind CSS, showcasing clean UI design and mobile-first development | HTML, Tailwind CSS, JavaScript |
 | **Football Match Outcome Predictor** |  Developed an EPL match outcome predictor using logistic regression and decision trees, achieving 68% accuracy on scraped FBref data | Python, BeautifulSoup, Pandas |
 | **Student Queue Manager** | Simulates queue processing with timestamps and advisor logic | C |
 | **Real Estate Data Extraction** | Automated real estate data scraping with Selenium and BeautifulSoup, exporting results to Excel via Pandas | Python, BeautifulSoup, Selenium, Pandas |
